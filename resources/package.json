@@ -1,0 +1,19 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.12.2",
+        "nuxt": "^2.14.7"
+    },
+    "devDependencies": {
+        "@nuxt/types": "^2.14.7",
+        "@nuxt/typescript-build": "^2.0.3",
+        "@nuxtjs/eslint-config-typescript": "^4.0.0",
+        "@nuxtjs/vuetify": "^1.11.2"
+    }
+}
